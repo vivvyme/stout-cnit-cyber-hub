@@ -32,3 +32,36 @@ main {
     max-width: 860px;
     margin: 0 auto;
 }
+.main-nav {
+    background-color: #00263e;
+    text-align: center;
+    padding: 14px;
+}
+.main-nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 18px;
+    font-weight: bold;
+}
+.main-nav a:hover {
+    text-decoration: underline;
+}
+.welcome-banner {
+    max-width: 860px;
+    margin: 24px auto 0;
+    padding: 20px;
+    background-color: #e8f6fb;
+    border-radius: 6px;
+    text-align: center;
+}
+.welcome-banner h2 {
+    margin-top: 0;
+    color: #003b5c;
+}
+.main-footer {
+    background-color: #003b5c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
